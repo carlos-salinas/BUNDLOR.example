@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.thingtrack</groupId>
-	<artifactId>bustrack.view.module.worksheet</artifactId>
+	<artifactId>BUNDLOR.example</artifactId>
 	<packaging>jar</packaging>
 	<name>Spring OSGi Bundle</name>
-	<version>0.0.1.SNAPSHOT</version>
+	<version>0.0.2.SNAPSHOT</version>
 	<url>http://www.springframework.org/osgi</url>
 
 	<properties>
